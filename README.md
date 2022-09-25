@@ -4,7 +4,7 @@ This is my first solo project after going through few Python tutorials and train
 
 <h2>Demo</h2>
 
-https://user-images.githubusercontent.com/112593833/192150974-eb363ff7-47a8-443c-b13d-e3523f74cfb6.mp4
+https://user-images.githubusercontent.com/112593833/192153877-a90a3643-9299-4b83-a329-8f6a9962d950.mp4
 
 <h2>Program features</h2>
 
