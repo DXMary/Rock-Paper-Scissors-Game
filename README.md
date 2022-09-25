@@ -23,6 +23,14 @@ import random
 
 ```
 
+<h4>Project Status:</h4>
+
+The project is currently in progress. I will be working on it further to add the following features:
+
+- Playes vs player.
+- Web or GUI interface for visualization.
+- Different modes: easy, hard, impossible.
+- Impossible mode where AI attempts to determine user's move in advance so user always loses.
 
 Thanks for checking out my program!
 
