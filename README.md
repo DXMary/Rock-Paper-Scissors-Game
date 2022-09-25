@@ -40,7 +40,7 @@ The project is currently in progress. I will be working on it further to add the
 <h2>Author</h2>
 
 - GitHub: [@DXMary](https://github.com/DXMary)
-- Linkedin: [Maryam Diomande](https://www.linkedin.com/in/maryamdiomande/)
+- Linkedln: [Maryam Diomande](https://www.linkedin.com/in/maryamdiomande/)
 
 <h2>Contributing</h2>
 
@@ -50,5 +50,5 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐ if you like this project!
 
-Thanks for checking out my program!
+Thanks for checking out my [program!](https://github.com/DXMary/Rock-Paper-Scissors-Game)
 
