@@ -2,6 +2,8 @@
 
 This is my first solo project after going through few Python tutorials and training materials. The program will allow users to play the classic game "Rock, Paper, Scissors" against the computer.
 
+https://user-images.githubusercontent.com/112593833/192150379-8128614d-4cc5-42fd-8f5e-8ab663d0aa39.mp4
+
 <h4>Program features:</h4>
 
 - Player vs Computer.
