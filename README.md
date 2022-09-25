@@ -1,4 +1,4 @@
-<h2 align="center">Rock, Paper & Scissors Game</h2>
+<h2 align="center">DXM Rock, Paper, Scissors Game</h2>
 
 This is my first solo project after going through few Python tutorials and training materials. The program will allow users to play the classic game "Rock, Paper, Scissors" against the computer.
 
