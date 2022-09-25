@@ -2,11 +2,12 @@
 
 This is my first solo project after going through few Python tutorials and training materials. The program will allow users to play the classic game "Rock, Paper, Scissors" against the computer.
 
-<h4>Demo:</h4>
+<h2>Demo</h2>
 
 https://user-images.githubusercontent.com/112593833/192150974-eb363ff7-47a8-443c-b13d-e3523f74cfb6.mp4
 
-<h4>Program features:</h4>
+<h2>Program features</h2>
+
 
 - Player vs Computer.
 - Prompting the user to input the number of rounds it wants to play.
@@ -20,14 +21,14 @@ https://user-images.githubusercontent.com/112593833/192150974-eb363ff7-47a8-443c
 - Formatted text.
 - Replay.
 
-<h4>Development setup:</h4>
+<h2>Development setup</h2>
 
 ```sh
 import random
 
 ```
 
-<h4>Project Status:</h4>
+<h2>Project Status</h2>
 
 The project is currently in progress. I will be working on it further to add the following features:
 
@@ -35,6 +36,19 @@ The project is currently in progress. I will be working on it further to add the
 - Web or GUI interface for visualization.
 - Different modes: easy, hard, impossible.
 - Impossible mode where AI attempts to determine user's move in advance so user always loses.
+
+<h2>Author</h2>
+
+- GitHub: [@DXMary](https://github.com/DXMary)
+- Linkedin: [Maryam Diomande](https://www.linkedin.com/in/maryamdiomande/)
+
+<h2>Contributing</h2>
+
+Contributions, issues, and feature requests are welcome!
+
+<h2>Show your support</h2>
+
+Give a ⭐ if you like this project!
 
 Thanks for checking out my program!
 
